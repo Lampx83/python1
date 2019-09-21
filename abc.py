@@ -10,3 +10,6 @@ print("Xuan Lam Pycharm")
 print("Xuan Lam Pycharm1")
 
 print("Toi da xoa Thao Pham PyCham1")
+
+print("To da them 1 dong Pycharm 1 lai")
+
