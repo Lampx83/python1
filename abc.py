@@ -8,3 +8,5 @@ print ("Thaop 3")
 
 print("Xuan Lam Pycharm")
 print("Xuan Lam Pycharm1")
+
+print ("Pham thao Pycharm1")
