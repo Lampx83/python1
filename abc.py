@@ -3,7 +3,7 @@ print ("hello")
 print("Xuan Lam")
 print("Xuan Lam2")
 print ("Thaop 2")
-print("Xuan Lam3")
+//Toi vua xoa  Xuan Lam 3
 print ("Thaop 3")
 
 print("Xuan Lam Pycharm")
